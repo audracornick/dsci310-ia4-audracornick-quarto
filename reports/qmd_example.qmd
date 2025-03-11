@@ -8,6 +8,8 @@ format:
   html:
     toc: true
     toc-depth: 3
+    theme: minty
+    css: styles.css
 bibliography: references.bib
 ---
 
